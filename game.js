@@ -32,7 +32,7 @@ function playGame() {
 
     document.getElementById("GameResult").innerHTML = `
      YouChoose : <b> ${playerChoice} </b> <br>
-     computerChoose :<b>${ComputerChoice}</b><br>
+     computerChoose : <b> ${ComputerChoice} </b><br>
      <b> ${Result}</b>
      ;`
 }
